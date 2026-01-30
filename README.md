@@ -1,4 +1,4 @@
-# GestiondeTareas
+# Gestion De Tareas
 
 ## Descripción de la aplicación
 
