@@ -62,11 +62,14 @@ Carpetas principales:
 
 ## Capturas de pantalla
 
-![Vista principal](![VistaPrincipal](https://github.com/user-attachments/assets/b786937f-7982-44dc-b547-19ae3cfc2e4c)
+![Vista principal](<img width="1361" height="497" alt="image" src="https://github.com/user-attachments/assets/ca7b8eda-0a8b-4529-97b7-df0936e0d44f" />
 )
-![Agregar tarea](![AgregarTarea](https://github.com/user-attachments/assets/0ab53e8c-0c42-4619-96c8-396415467dc5)
 )
-![Vista Responsive](![VistaResponsive](https://github.com/user-attachments/assets/293d26c3-3999-450d-b747-c29236d23759)
+![Agregar tarea](<img width="1050" height="283" alt="image" src="https://github.com/user-attachments/assets/b6571a48-ba31-43b9-925d-2311edad3b78" />
+)
+)
+![Vista Responsive](<img width="985" height="699" alt="image" src="https://github.com/user-attachments/assets/80a4e74b-6c01-475d-8b3c-2a7ad108786d" />
+)
 )
 
 
