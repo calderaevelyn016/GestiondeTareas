@@ -1,5 +1,7 @@
 # Gestion De Tareas
 
+## Evelyn Gallegos
+
 ## Descripción de la aplicación
 
 Gestor de Tareas es una aplicación web desarrollada con Flask como backend y Bootstrap 5 como frontend.  
